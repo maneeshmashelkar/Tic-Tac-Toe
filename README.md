@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-simple pyhton game using Tkinter(GUI)
+simple python game using Tkinter(GUI)
  1st project
 
 ## Features:-
